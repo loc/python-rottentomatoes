@@ -7,7 +7,7 @@ A super-simple python wrapper for the RottenTomatoes JSON API.
 
 You must first have an API key from developer.rottentomatoes.com
 
-    from python-rottentomatoes import RottenTomatoesAPI
+    from rottentomatoes import RottenTomatoesAPI
     api = RottenTomatoesAPI('uR_aPi_keY_rItE_huR')
     
 Let's get the top rentals from Rotten Tomatoes. There are several different syntaxes, depending on how you want to do it. It's pretty flexible.
