@@ -50,4 +50,7 @@ Need to paginate? No problem! Any query string arguments can just be added via a
     # http://api.rottentomatoes.com/api/public/v1.0/lists/movies/in_theaters.json?apikey=uR_aPi_keY_rItE_huR&page=2
     # {"total":128,"movies":[{"id":"771225176","title":"Hansel and Gretel...
 
-    
+## Other options
+
+https://github.com/zachwill/rottentomatoes
+https://github.com/cvega/WWW-RottenTomatoes-Python
